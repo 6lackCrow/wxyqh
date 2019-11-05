@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="player player-{{isPlayingMusic ? 'play' : 'pause'}}"bindtap="play">
+  <image src="/images/music_icon.png" />
+  <image src="/images/music_play.png" />
+</view>
+<image class="bg" src="/images/bg_1.png"/>
+<view class="content">
+  <image class="content-gif" src="/images/save_the_date.gif"/>
+  <view class="content-title">邀请函</view>
+  <view class=""></view>
+</view>

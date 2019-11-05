@@ -1,0 +1,8 @@
+/**app.wxss**/
+page {
+  font-family: Arial, Helvetica,Helvetica Neue, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
